@@ -338,7 +338,7 @@ const Projects = () => {
                   <span className="text-sm font-medium"> Source Code </span>
                 </a>
               </div>
-              <a href="https://a-popappz-sample.netlify.app">
+              <a href="https://a-popappzsample.netlify.app/">
                 <button class="h-10 live-btn px-5 text-red-700 transition-colors duration-150 border-0 border-red-500 rounded-lg focus:shadow-outline hover:bg-red-500 hover:text-white">
                   ●︎ Live
                 </button>
