@@ -14,7 +14,7 @@ const Navbar = () => {
               <a href="#projects">Projects</a>
               <a href="#certificates">Certificates</a>
               <a href="#achievements">Achievements</a>
-              <a href="#contactme">Contact Me</a>
+              <a href="#contactme">Get in Touch</a>
               <div>
                 <a
                   href="/assets/resume.pdf"
