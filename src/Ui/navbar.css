@@ -1,0 +1,74 @@
+nav {
+  background: rgba(255, 254, 254, 0.385); /* Slightly transparent white */
+  backdrop-filter: blur(10px); /* Apply blur for the glossy effect */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+  position: fixed; /* Fix navbar to top */
+  width: 100%; /* Full width */
+  z-index: 50; /* Above other content */
+}
+
+nav .container {
+  max-width: 1200px; /* Set max width for content */
+  margin: 0 auto; /* Center the container */
+  padding: 0 0; /* Add padding */
+}
+
+nav .flex {
+  display: flex; /* Flexbox for layout */
+  justify-content: space-between; /* Space between items */
+  align-items: center; /* Center items vertically */
+  padding: 1rem 0; /* Padding for top and bottom */
+}
+
+nav .links {
+  display: flex; /* Flexbox for links */
+  justify-content: space-between; /* Space between links */
+  align-items: center; /* Center items vertically */
+}
+
+nav a {
+  color: #333; /* Dark text color */
+  text-decoration: none; /* No underline */
+  margin: 0 15px; /* Space between links */
+  transition: color 0.3s; /* Smooth transition for hover */
+}
+
+nav a:hover {
+  color: rgba(0, 0, 0, 0.7); /* Change color on hover */
+}
+
+nav img {
+  height: 40px; /* Logo height */
+  width: auto; /* Auto width */
+}
+
+/* Download Button */
+.download-btn {
+  background: #5850ec; /* Green background */
+  color: white; /* White text */
+  padding: 0.5rem 1rem; /* Padding */
+  border-radius: 5px; /* Rounded corners */
+  transition: background 0.3s; /* Smooth transition for hover */
+}
+
+.live-btn {
+  height: 50px;
+  font-size: smaller;
+  font-family: "Exo 2", sans-serif;
+}
+
+.download-btn:hover {
+  background: #45a049; /* Darker green on hover */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  nav .links {
+    flex-direction: row; /* Keep links in a row on mobile */
+    flex-wrap: wrap; /* Wrap if needed */
+  }
+
+  nav .links a {
+    margin: 0 10px; /* Adjust margin for mobile */
+  }
+}

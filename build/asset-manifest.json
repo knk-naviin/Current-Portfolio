@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6018f405.css",
+    "main.js": "/static/js/main.3b2eef7d.js",
+    "static/js/453.0a36081d.chunk.js": "/static/js/453.0a36081d.chunk.js",
+    "static/media/frame.png": "/static/media/frame.eed19a679897e5806e43.png",
+    "static/media/linkin.png": "/static/media/linkin.7c2c1dda4206ca56c519.png",
+    "static/media/C.png": "/static/media/C.4b242b1894c00e21ed04.png",
+    "static/media/java.png": "/static/media/java.42f706c13635044981ab.png",
+    "static/media/ivm.jpg": "/static/media/ivm.6deb4147fd8b9ca7ac48.jpg",
+    "static/media/dbms.png": "/static/media/dbms.f55bc8a6747105049cf6.png",
+    "static/media/flutter.png": "/static/media/flutter.ff9adb2b8ade489caba7.png",
+    "static/media/expressjs.png": "/static/media/expressjs.ff063d2553352ead71a6.png",
+    "static/media/nodejs.png": "/static/media/nodejs.c03f89a1dfddfb4b5a56.png",
+    "static/media/react.png": "/static/media/react.c37e1398b00dbdc07b49.png",
+    "static/media/shalong.jpg": "/static/media/shalong.cfb6c6edb2534866c1fe.jpg",
+    "index.html": "/index.html",
+    "main.6018f405.css.map": "/static/css/main.6018f405.css.map",
+    "main.3b2eef7d.js.map": "/static/js/main.3b2eef7d.js.map",
+    "453.0a36081d.chunk.js.map": "/static/js/453.0a36081d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6018f405.css",
+    "static/js/main.3b2eef7d.js"
+  ]
+}

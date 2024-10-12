@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.py-24 {
+  padding-bottom: 60px;
+}
