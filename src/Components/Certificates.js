@@ -12,7 +12,7 @@ const Certificates = () => {
       date: "Jan 2024",
       credentialId: "ISIE/E-Bike24/775",
       imageUrl:
-        "https://media.licdn.com/dms/image/v2/D562DAQHIo_PEGN8fjg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1719358012787?e=1729083600&v=beta&t=AyAqX2D3fEZBIaXf9w6sVcuLlD-UHYJkehBV037bvwQ",
+        "https://media.licdn.com/dms/image/v2/D562DAQHIo_PEGN8fjg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1719358012787?e=1730185200&v=beta&t=mgw6-Yrdh1wH1udTXuWAx2olME1Jwh15Z0K3gAlD1TM",
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ const Certificates = () => {
       date: "Nov 2023",
       credentialId: "TB-CHESIITM-FLUTTER-041",
       imageUrl:
-        "https://media.licdn.com/dms/image/v2/D562DAQGYsbljWs2a2g/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1719357768671?e=1729087200&v=beta&t=cScJ0hQmMpc-8d_kyKxc38E8JB2Y37ayZ6Ydr61B-Hk",
+        "https://media.licdn.com/dms/image/v2/D562DAQGYsbljWs2a2g/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1719357768671?e=1730185200&v=beta&t=UUGw6sCDmfi6BLnMob1E53s_ER4XTtKv9GhA5_qpsNU",
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ const Certificates = () => {
       date: "Jan 2024",
       credentialId: "f87f75a65b2d",
       imageUrl:
-        "https://media.licdn.com/dms/image/v2/D4D2DAQGNg3Mr8KFtow/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707813825118?e=1729184400&v=beta&t=yP4y-tQU51rA3eewuJ-pbO9XzGiKzxz3q1wkSExDiNU",
+        "https://media.licdn.com/dms/image/v2/D4D2DAQGNg3Mr8KFtow/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707813825118?e=1730185200&v=beta&t=rWeeeM7NNwIKRsUEhXo036oJHxoOp2aM0vJqaxvYK30",
     },
     {
       id: 4,
@@ -39,7 +39,7 @@ const Certificates = () => {
       date: "Oct 2023",
       credentialId: "2415A0A3D14",
       imageUrl:
-        "https://media.licdn.com/dms/image/v2/D4D2DAQEro2Y6YY_uoA/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1707813339612?e=1729184400&v=beta&t=JKRAbl3dqWVrrvh8dns6jhq5LzGTOKmFNyfkr93squI",
+        "https://media.licdn.com/dms/image/v2/D4D2DAQEro2Y6YY_uoA/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1707813339612?e=1730185200&v=beta&t=oqu4W8IExP5w9HXpxnl166g8tbz-VHEsffC008WeARc",
     },
     {
       id: 5,
@@ -48,7 +48,7 @@ const Certificates = () => {
       date: "Oct 2023",
       credentialId: "a5a564787886",
       imageUrl:
-        "https://media.licdn.com/dms/image/v2/D4D2DAQHMZykiqx3DMg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707813775431?e=1729184400&v=beta&t=8YbFkjSceWGussBIcmPcqPN-XGIwsBdy21MPw3NSjiw",
+        "https://media.licdn.com/dms/image/v2/D4D2DAQHMZykiqx3DMg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707813775431?e=1730185200&v=beta&t=ZlbB9M0JkssrOtSZq-xk5l0g9fqRXU-wAKNS9VtmG1Y",
     },
     {
       id: 6,
@@ -57,7 +57,7 @@ const Certificates = () => {
       date: "Oct 2023",
       credentialId: "ed7ececdeb2d",
       imageUrl:
-        "https://media.licdn.com/dms/image/v2/D4D2DAQGXzpVdf-BCuw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707813749920?e=1729184400&v=beta&t=AEc6O4kX6T1To3F-TAW5h58dF9qcCimcZnTpH62LrKk",
+        "https://media.licdn.com/dms/image/v2/D4D2DAQGXzpVdf-BCuw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1707813749920?e=1730185200&v=beta&t=L3wlxyY_XViNXgpOu-JUSKXvNKZxynlPRBxeWgRgLJE",
     },
     // Add more certificate objects here
   ];
